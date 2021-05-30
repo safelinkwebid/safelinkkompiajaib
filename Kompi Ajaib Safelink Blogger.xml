@@ -1230,7 +1230,7 @@ output.value = "https://kompiajaib.safelink.web.id/2021/05/"+xxx+"?url=" + Base6
 <div class='clearfix'/>
 <footer class='footer'>
       <div class='container'>
-        <div class='row'>Copyright &#169; <script>document.write((new Date()).getFullYear());</script> <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a>
+        <div class='row'>Copyright &#169; <script>document.write((new Date()).getFullYear());</script> <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/>| <a href="https://safelink.web.id" target="_blank">&nbsp;SAFELINK BLOGGER</a></a>
       </div>
       </div>
     </footer>
